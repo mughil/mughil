@@ -14,6 +14,19 @@ I enjoy turning rough ideas into clear systems—whether that means engineering 
 
 ## Featured projects
 
+### [CLI_CODE](https://github.com/mughil/CLI_CODE)
+
+An open-source developer directory for discovering and comparing **500 CLI tools, 50 AI models, and 20 AI projects**.
+
+- Search and filter CLI tools
+- Compare developer tools and AI models
+- Explore curated developer stacks
+- Fully client-side and privacy-friendly
+- Built with JavaScript and deployed on GitHub Pages
+
+**Live demo:** [mughil.github.io/CLI_CODE](https://mughil.github.io/CLI_CODE/)
+
+
 ### [Prompt Engineer Pro](https://github.com/mughil/Prompt-Engineer-Pro)
 
 A Claude Skill that transforms rough prompts into well-specified, high-performing prompts through an **Analyze → Improve → Maximize** workflow. It includes a structured scoring rubric, model-specific optimization, worked examples, safety boundaries, and evaluation cases.
