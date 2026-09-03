@@ -6,6 +6,8 @@
   Building in public. Learning through projects. Growing with open source.
 </p>
 
+<h2 align="center">Connect with me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mughilrk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Connect with Mughil on LinkedIn" /></a>
   <a href="https://www.instagram.com/mughil_18/"><img src="https://img.shields.io/badge/Instagram-mughil__18-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Follow mughil_18 on Instagram" /></a>
