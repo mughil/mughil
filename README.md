@@ -6,19 +6,6 @@
   Building in public. Learning through projects. Growing with open source.
 </p>
 
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mughilrk/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://www.instagram.com/mughil_18/" title="Instagram — mughil_18"><img src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" alt="Instagram — mughil_18" width="40" height="40" /></a>
-  <a href="https://github.com/mughil" title="GitHub — mughil"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub — mughil" width="40" height="40" /></a>
-</p>
-
-<p align="center">
-  <a href="mailto:mughilofficial.2005@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Email Mughil" /></a>
-  <a href="https://2dcreation.in/"><img src="https://img.shields.io/badge/2D%20Creation-Visit%20website-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Visit 2D Creation" /></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/mughil?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmughil&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=flat-square&amp;color=58A6FF&amp;labelColor=161B22" alt="Total public repositories" /></a>
   <a href="https://github.com/mughil?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/mughil?label=Stars%20received&amp;style=flat-square&amp;color=58A6FF&amp;labelColor=161B22" alt="Total stars received on public repositories" /></a>
@@ -44,6 +31,16 @@
 - 🤝 **Open to collaborating on:** developer tools, AI automation, practical websites, and open-source projects.
 - 💬 **Let's talk about:** e-commerce, AI tools, workflow automation, web development, and search visibility.
 - 📫 **Reach me:** [mughilofficial.2005@gmail.com](mailto:mughilofficial.2005@gmail.com)
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mughilrk/" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mughil_18/" title="Instagram — mughil_18"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram — mughil_18" width="30" height="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mughil" title="GitHub — mughil"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub — mughil" width="30" height="30" /></a>
+</p>
 
 ## Featured projects
 
