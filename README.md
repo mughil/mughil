@@ -9,9 +9,12 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mughilrk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Connect with Mughil on LinkedIn" /></a>
-  <a href="https://www.instagram.com/mughil_18/"><img src="https://img.shields.io/badge/Instagram-mughil__18-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Follow mughil_18 on Instagram" /></a>
-  <a href="https://github.com/mughil"><img src="https://img.shields.io/badge/GitHub-mughil-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Visit Mughil's GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/mughilrk/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://www.instagram.com/mughil_18/" title="Instagram — mughil_18"><img src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" alt="Instagram — mughil_18" width="40" height="40" /></a>
+  <a href="https://github.com/mughil" title="GitHub — mughil"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub — mughil" width="40" height="40" /></a>
+</p>
+
+<p align="center">
   <a href="mailto:mughilofficial.2005@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Email Mughil" /></a>
   <a href="https://2dcreation.in/"><img src="https://img.shields.io/badge/2D%20Creation-Visit%20website-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Visit 2D Creation" /></a>
 </p>
